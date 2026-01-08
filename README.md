@@ -54,10 +54,9 @@ Plus 3 Mock Services for CRM, Credit Bureau, and Offer Mart
 1. Clone the Repository
 ```bash
 
-git clone https://github.com/ shreeshbhat04-ctrl/Agent-AI-for-loan-scheme-generation
+git clone https://github.com/supreetpatil79/EY-AI-Loan-Assistance-System
+cd EY-AI-Loan-Assistance-System
 
-cd agent-ai-loan-chatbot
-```
  
 2. Prerequisites
 
